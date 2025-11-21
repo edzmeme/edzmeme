@@ -15,29 +15,20 @@ Hands-On Experience: Policy drafting, compliance workflows, incident response ex
 📂 Featured Projects & Labs
 
 Risk assessment scenarios and GRC case studies
-
 Development of security policy templates (IAM, IR, AUP, etc.)
-
 Compliance documentation aligned with NIST and CIS controls
-
 Governance best-practice guides for cloud and enterprise environments
 
 📜 Certifications & Training
 
 ISC2 Certified in Cybersecurity — Planned
-
 CompTIA Security+ — In Progress
-
-Project Management coursework — Planned
-
 Cybersecurity Innovation Fellowship — The Knowledge House
 
 🚀 What I’m Working Toward
 
 Expanding hands-on experience with compliance and governance frameworks
-
 Building a comprehensive library of GRC tools, templates, and documentation
-
 Deepening my knowledge of cloud governance, IAM, and risk mitigation strategies
 
 📫 Connect With Me
