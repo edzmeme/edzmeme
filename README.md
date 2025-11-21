@@ -15,9 +15,10 @@ Hands-On Experience: Policy drafting, compliance workflows, incident response ex
 📂 Featured Projects & Labs
 
 Risk assessment scenarios and GRC case studies
-Development of security policy templates (IAM, IR, AUP, etc.)
-Compliance documentation aligned with NIST and CIS controls
-Governance best-practice guides for cloud and enterprise environments
+Architecting secure multi-VPC cloud environments with cross-region VPC peering, IAM policy controls, and segmented network routing to support enterprise-grade infrastructure.
+Implementing AWS monitoring pipelines using CloudWatch, IAM instance profiles, and system metrics to improve visibility, operational readiness, and compliance reporting.
+Integrating Wazuh with CloudTrail and S3 log sources to build a centralized SIEM workflow for threat detection, log correlation, and audit-focused monitoring.
+Documenting remediation steps, risk considerations, and governance best practices across cloud networking, IAM configurations, and monitoring pipelines.
 
 📜 Certifications & Training
 
